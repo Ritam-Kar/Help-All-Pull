@@ -8,3 +8,8 @@
  - Bio: Software Engineer.
  - GitHub: [karjasmin](https://github.com/karjasmin)
  
+ #### Name: Jasmin Kar
+ - Place: Bengaluru, India
+ - Bio: Software Engineer.
+ - GitHub: [karjasmin](https://github.com/karjasmin)
+ 

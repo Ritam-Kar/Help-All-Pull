@@ -8,3 +8,8 @@
  - Bio: Research Intern.
  - GitHub: [kartickgupta](https://github.com/kartickgupta)
  
+ #### Name: Jasmin Kar
+ - Place: Bengaluru, India
+ - Bio: Software Engineer.
+ - GitHub: [karjasmin](https://github.com/karjasmin)
+ 
